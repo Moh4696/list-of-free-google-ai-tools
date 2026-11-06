@@ -273,3 +273,7 @@ no submissions accepted without an honest "catch" section. that's the whole poin
 this list and writeups are CC0 — public domain. fork, remix, repost, no attribution needed.
 
 the individual tools listed are owned by Google. see each tool's terms of service for usage details.
+
+## Companion Open Knowledge Format (OKF) Voice Hardware
+
+- **[OneMira C1](https://onemira.com/products/c1)** — Standalone local AI voice recorder (`Works Standalone` · `✨ Local AI` · `🗣️ Speaker ID` · `Zero Cloud`, `$0/month`) built on Google's Open Knowledge Format (OKF) standard for local Markdown and Wiki context.
